@@ -1,0 +1,304 @@
+Line 0: ABCDEFGHIJKLMNO., Neural Network A* - 0 moves found in 0.801 seconds
+1 nodes visited, 1.248 nodes/s
+
+Line 1: MFHLON.JKGDEIACB, Neural Network A* - 57 moves found in 0.354 seconds
+6682 nodes visited, 18879.972 nodes/s
+
+Line 2: JEA.OIMNBHDGFLKC, Neural Network A* - 55 moves found in 0.314 seconds
+6348 nodes visited, 20242.906 nodes/s
+
+Line 3: AOJM.KDGLFECNHIB, Neural Network A* - 59 moves found in 0.340 seconds
+6907 nodes visited, 20316.246 nodes/s
+
+Line 4: JGLMCONH.BEAIFDK, Neural Network A* - 56 moves found in 0.322 seconds
+6523 nodes visited, 20240.195 nodes/s
+
+Line 5: .HNOAJKEDGMFCBIL, Neural Network A* - 56 moves found in 0.323 seconds
+6476 nodes visited, 20068.686 nodes/s
+
+Line 6: CL.FKNEHAJMDGOIB, Neural Network A* - 52 moves found in 0.291 seconds
+6011 nodes visited, 20632.545 nodes/s
+
+Line 7: .BMGOFHDIJLCKAEN, Neural Network A* - 54 moves found in 0.304 seconds
+6221 nodes visited, 20477.771 nodes/s
+
+Line 8: IFOBKGCJNL.HMAED, Neural Network A* - 50 moves found in 0.285 seconds
+5786 nodes visited, 20280.029 nodes/s
+
+Line 9: .AOFIJDCNHLKEGBM, Neural Network A* - 46 moves found in 0.255 seconds
+5196 nodes visited, 20359.409 nodes/s
+
+Line 10: ONDKBJMLFIA.GHEC, Neural Network A* - 59 moves found in 0.342 seconds
+6907 nodes visited, 20172.591 nodes/s
+
+Line 11: OENA.LHFDIMJBCGK, Neural Network A* - 57 moves found in 0.330 seconds
+6651 nodes visited, 20127.198 nodes/s
+
+Line 12: ACEF.MNIKDHLJGOB, Neural Network A* - 45 moves found in 0.252 seconds
+5115 nodes visited, 20336.294 nodes/s
+
+Line 13: IEHGDCLOBA.FNKJM, Neural Network A* - 46 moves found in 0.261 seconds
+5274 nodes visited, 20243.928 nodes/s
+
+Line 14: D.NACGLMFBKEOHJI, Neural Network A* - 59 moves found in 0.341 seconds
+6907 nodes visited, 20245.62 nodes/s
+
+Line 15: .FMINBKJAGHODLEC, Neural Network A* - 62 moves found in 0.355 seconds
+7244 nodes visited, 20406.421 nodes/s
+
+Line 16: .ILDECBHJAGFKNMO, Neural Network A* - 42 moves found in 0.235 seconds
+4684 nodes visited, 19951.727 nodes/s
+
+Line 17: DFNMGHKICJOEL.BA, Neural Network A* - 66 moves found in 0.411 seconds
+7803 nodes visited, 18981.065 nodes/s
+
+Line 18: CKMHNILEFGAODB.J, Neural Network A* - 55 moves found in 0.315 seconds
+6395 nodes visited, 20330.141 nodes/s
+
+Line 19: FNDKGCLOAJ.BMHEI, Neural Network A* - 46 moves found in 0.258 seconds
+5274 nodes visited, 20412.031 nodes/s
+
+Line 20: .KOLFHBNAGICMEDJ, Neural Network A* - 52 moves found in 0.296 seconds
+5964 nodes visited, 20147.156 nodes/s
+
+Line 21: NGCMAFOK.ILEJBHD, Neural Network A* - 54 moves found in 0.307 seconds
+6267 nodes visited, 20438.36 nodes/s
+
+Line 22: JDN.CFIEKLHAOGMB, Neural Network A* - 59 moves found in 0.330 seconds
+6860 nodes visited, 20806.603 nodes/s
+
+Line 23: DOAHILJKBNC.EMGF, Neural Network A* - 49 moves found in 0.275 seconds
+5627 nodes visited, 20485.147 nodes/s
+
+Line 24: .JANEGDKHFOLCBMI, Neural Network A* - 54 moves found in 0.305 seconds
+6220 nodes visited, 20383.665 nodes/s
+
+Line 25: DKCMHBGJAF.OINLE, Neural Network A* - 52 moves found in 0.292 seconds
+6042 nodes visited, 20694.406 nodes/s
+
+Line 26: ENLOJGF.HBCADMIK, Neural Network A* - 58 moves found in 0.335 seconds
+6779 nodes visited, 20210.304 nodes/s
+
+Line 27: EKILCFDGM.JNAHOB, Neural Network A* - 53 moves found in 0.301 seconds
+6170 nodes visited, 20509.746 nodes/s
+
+Line 28: IHEANFMG.OKLDJBC, Neural Network A* - 52 moves found in 0.296 seconds
+6011 nodes visited, 20286.371 nodes/s
+
+Line 29: DJCEKIFMBLOAN.HG, Neural Network A* - 54 moves found in 0.305 seconds
+6267 nodes visited, 20573.429 nodes/s
+
+Line 30: EGCF.IMKHLBOJNAD, Neural Network A* - 47 moves found in 0.261 seconds
+5371 nodes visited, 20570.146 nodes/s
+
+Line 31: FBIGENMJLK.OCAHD, Neural Network A* - 50 moves found in 0.283 seconds
+5786 nodes visited, 20434.442 nodes/s
+
+Line 32: AEMO.IDNHKJCLGFB, Neural Network A* - 59 moves found in 0.338 seconds
+6907 nodes visited, 20416.956 nodes/s
+
+Line 33: HIOLDNF.GCJEAKMB, Neural Network A* - 60 moves found in 0.346 seconds
+7035 nodes visited, 20332.906 nodes/s
+
+Line 34: AD.BGMFOLKNCHIEJ, Neural Network A* - 52 moves found in 0.293 seconds
+6011 nodes visited, 20490.562 nodes/s
+
+Line 35: FEI.GCKLHANMBDJO, Neural Network A* - 55 moves found in 0.310 seconds
+6348 nodes visited, 20493.226 nodes/s
+
+Line 36: FKBNEHGCOAMIL.JD, Neural Network A* - 52 moves found in 0.297 seconds
+6011 nodes visited, 20208.632 nodes/s
+
+Line 37: LMNBCJAGKF.EDIOH, Neural Network A* - 58 moves found in 0.328 seconds
+6810 nodes visited, 20742.61 nodes/s
+
+Line 38: BOKGFL.EDMJCNHAI, Neural Network A* - 53 moves found in 0.291 seconds
+6170 nodes visited, 21181.633 nodes/s
+
+Line 39: NHCEIKJDMABOFL.G, Neural Network A* - 49 moves found in 0.273 seconds
+5627 nodes visited, 20604.397 nodes/s
+
+Line 40: HJAGMCIN.FDLBOKE, Neural Network A* - 54 moves found in 0.305 seconds
+6267 nodes visited, 20569.48 nodes/s
+
+Line 41: ILKDBNO.JAMEGFCH, Neural Network A* - 54 moves found in 0.312 seconds
+6267 nodes visited, 20064.19 nodes/s
+
+Line 42: FAOHEJM.CDBGNIKL, Neural Network A* - 42 moves found in 0.232 seconds
+4731 nodes visited, 20350.292 nodes/s
+
+Line 43: .HKIDNJMLFGOCBAE, Neural Network A* - 64 moves found in 0.366 seconds
+7500 nodes visited, 20484.966 nodes/s
+
+Line 44: CAOFIELNBKMHJ.GD, Neural Network A* - 50 moves found in 0.278 seconds
+5755 nodes visited, 20727.003 nodes/s
+
+Line 45: CNFEJKHOL.ADIGBM, Neural Network A* - 51 moves found in 0.285 seconds
+5914 nodes visited, 20736.498 nodes/s
+
+Line 46: E.IMKGFCANDBOJLH, Neural Network A* - 49 moves found in 0.274 seconds
+5627 nodes visited, 20539.386 nodes/s
+
+Line 47: DEGLIN.CKMHABOFJ, Neural Network A* - 47 moves found in 0.264 seconds
+5402 nodes visited, 20462.714 nodes/s
+
+Line 48: BKO.CADNGFMIJLEH, Neural Network A* - 49 moves found in 0.273 seconds
+5580 nodes visited, 20454.581 nodes/s
+
+Line 49: HBMAIGCEDJOKLN.F, Neural Network A* - 59 moves found in 0.340 seconds
+6907 nodes visited, 20290.772 nodes/s
+
+Line 50: OAJBMLHIG.FNECKD, Neural Network A* - 53 moves found in 0.302 seconds
+6170 nodes visited, 20434.626 nodes/s
+
+Line 51: DKIGJMCEBO.ALHNF, Neural Network A* - 56 moves found in 0.327 seconds
+6554 nodes visited, 20046.085 nodes/s
+
+Line 52: KGCAELBONJIMD.HF, Neural Network A* - 56 moves found in 0.317 seconds
+6523 nodes visited, 20596.08 nodes/s
+
+Line 53: JKEMION.FHLACDGB, Neural Network A* - 64 moves found in 0.372 seconds
+7547 nodes visited, 20275.97 nodes/s
+
+Line 54: OBGJMILKACNFH.ED, Neural Network A* - 56 moves found in 0.327 seconds
+6523 nodes visited, 19925.821 nodes/s
+
+Line 55: EJNDFLKAI.OGMBHC, Neural Network A* - 41 moves found in 0.231 seconds
+4634 nodes visited, 20052.02 nodes/s
+
+Line 56: HFBC.OGDILJEKNAM, Neural Network A* - 55 moves found in 0.318 seconds
+6395 nodes visited, 20128.456 nodes/s
+
+Line 57: BMIOFANH.DCLGJEK, Neural Network A* - 50 moves found in 0.281 seconds
+5755 nodes visited, 20463.927 nodes/s
+
+Line 58: CNDIGMEFBOJLHA.K, Neural Network A* - 51 moves found in 0.289 seconds
+5883 nodes visited, 20388.281 nodes/s
+
+Line 59: MCKNGLHDE.OFIJBA, Neural Network A* - 57 moves found in 0.330 seconds
+6682 nodes visited, 20277.579 nodes/s
+
+Line 60: .HJFKGIALDMNOCBE, Neural Network A* - 66 moves found in 0.382 seconds
+7756 nodes visited, 20310.118 nodes/s
+
+Line 61: A.LHBDIOFKGENMCJ, Neural Network A* - 45 moves found in 0.255 seconds
+5115 nodes visited, 20047.941 nodes/s
+
+Line 62: KOFIAMHECGNB.DJL, Neural Network A* - 57 moves found in 0.326 seconds
+6604 nodes visited, 20272.7 nodes/s
+
+Line 63: MKNJD.LCAIOBEGFH, Neural Network A* - 56 moves found in 0.320 seconds
+6554 nodes visited, 20490.013 nodes/s
+
+Line 64: OGFLACDEMJHI.BNK, Neural Network A* - 51 moves found in 0.293 seconds
+5836 nodes visited, 19914.91 nodes/s
+
+Line 65: BGO.AKCEJLDFNMHI, Neural Network A* - 47 moves found in 0.261 seconds
+5324 nodes visited, 20365.764 nodes/s
+
+Line 66: NLIGCF.HAOKMDBJE, Neural Network A* - 61 moves found in 0.359 seconds
+7194 nodes visited, 20063.283 nodes/s
+
+Line 67: GCDBK.AFEJMHLNOI, Neural Network A* - 50 moves found in 0.283 seconds
+5786 nodes visited, 20437.817 nodes/s
+
+Line 68: GLABEJ.HNKFDCOMI, Neural Network A* - 51 moves found in 0.285 seconds
+5914 nodes visited, 20758.827 nodes/s
+
+Line 69: MIDEFHCNGLBOAK.J, Neural Network A* - 53 moves found in 0.302 seconds
+6139 nodes visited, 20330.815 nodes/s
+
+Line 70: EIFCGBHNKJ.LDMOA, Neural Network A* - 52 moves found in 0.296 seconds
+6042 nodes visited, 20410.728 nodes/s
+
+Line 71: BCLHMNJAFGODE.IK, Neural Network A* - 44 moves found in 0.247 seconds
+4987 nodes visited, 20184.948 nodes/s
+
+Line 72: JMHGNOIC.BKLFEAD, Neural Network A* - 56 moves found in 0.319 seconds
+6523 nodes visited, 20449.013 nodes/s
+
+Line 73: CEGD.NLMOIHAKFBJ, Neural Network A* - 49 moves found in 0.275 seconds
+5627 nodes visited, 20464.534 nodes/s
+
+Line 74: KDFNOMI.GJHAELCB, Neural Network A* - 56 moves found in 0.318 seconds
+6523 nodes visited, 20516.648 nodes/s
+
+Line 75: EHIDACNGMOKJF.LB, Neural Network A* - 48 moves found in 0.273 seconds
+5499 nodes visited, 20128.701 nodes/s
+
+Line 76: LDNIECBOKGJ.MHFA, Neural Network A* - 57 moves found in 0.332 seconds
+6651 nodes visited, 20007.013 nodes/s
+
+Line 77: IHKEMFOAGJBDLNC., Neural Network A* - 54 moves found in 0.304 seconds
+6220 nodes visited, 20473.409 nodes/s
+
+Line 78: EOIN.FDKGHALJCBM, Neural Network A* - 53 moves found in 0.301 seconds
+6139 nodes visited, 20362.445 nodes/s
+
+Line 79: AFJHNLDBMKCEIGO., Neural Network A* - 42 moves found in 0.230 seconds
+4684 nodes visited, 20373.627 nodes/s
+
+Line 80: NIGBJLOFKMDCHA.E, Neural Network A* - 57 moves found in 0.325 seconds
+6651 nodes visited, 20450.423 nodes/s
+
+Line 81: INBLFOHAKMJEDG.C, Neural Network A* - 53 moves found in 0.300 seconds
+6139 nodes visited, 20492.081 nodes/s
+
+Line 82: .LKADJMIEHGCONFB, Neural Network A* - 64 moves found in 0.378 seconds
+7501 nodes visited, 19848.73 nodes/s
+
+Line 83: HCIB.AEJNFKLOGMD, Neural Network A* - 49 moves found in 0.275 seconds
+5627 nodes visited, 20448.015 nodes/s
+
+Line 84: NLECMJGKOBD.IFHA, Neural Network A* - 55 moves found in 0.316 seconds
+6395 nodes visited, 20260.069 nodes/s
+
+Line 85: AE.MKBHDJGNOFCIL, Neural Network A* - 44 moves found in 0.245 seconds
+4987 nodes visited, 20371.817 nodes/s
+
+Line 86: ACHBMLIONGDEFK.J, Neural Network A* - 45 moves found in 0.251 seconds
+5115 nodes visited, 20395.518 nodes/s
+
+Line 87: AMILDBJHON.CFEKG, Neural Network A* - 52 moves found in 0.294 seconds
+6042 nodes visited, 20536.779 nodes/s
+
+Line 88: LJF.IHMOKGCBEDNA, Neural Network A* - 65 moves found in 0.376 seconds
+7628 nodes visited, 20307.996 nodes/s
+
+Line 89: DNKJA.BGHMCFLIOE, Neural Network A* - 54 moves found in 0.309 seconds
+6298 nodes visited, 20398.939 nodes/s
+
+Line 90: MG.NJHCFABDEOILK, Neural Network A* - 50 moves found in 0.280 seconds
+5755 nodes visited, 20580.176 nodes/s
+
+Line 91: L.CHOJMEFDABNKIG, Neural Network A* - 57 moves found in 0.334 seconds
+6651 nodes visited, 19928.151 nodes/s
+
+Line 92: OFCHBKEJLDA.GINM, Neural Network A* - 57 moves found in 0.326 seconds
+6651 nodes visited, 20389.93 nodes/s
+
+Line 93: AEFKI.LMNOHDJBGC, Neural Network A* - 46 moves found in 0.260 seconds
+5274 nodes visited, 20299.576 nodes/s
+
+Line 94: NLOJAMDFCGB.HEIK, Neural Network A* - 53 moves found in 0.301 seconds
+6139 nodes visited, 20395.148 nodes/s
+
+Line 95: BODNEHKF.GAICJML, Neural Network A* - 50 moves found in 0.284 seconds
+5755 nodes visited, 20293.473 nodes/s
+
+Line 96: FKH.MCEDGLJNBAIO, Neural Network A* - 49 moves found in 0.278 seconds
+5580 nodes visited, 20065.215 nodes/s
+
+Line 97: ME.DJCLFNOAHIKBG, Neural Network A* - 44 moves found in 0.249 seconds
+4987 nodes visited, 20066.64 nodes/s
+
+Line 98: JCLIABFHGONKDME., Neural Network A* - 54 moves found in 0.309 seconds
+6220 nodes visited, 20122.174 nodes/s
+
+Line 99: HBMOJCEDKNGF.LAI, Neural Network A* - 57 moves found in 0.323 seconds
+6604 nodes visited, 20457.831 nodes/s
+
+Line 100: AGNOMBIDCKFJH.LE, Neural Network A* - 54 moves found in 0.311 seconds
+6267 nodes visited, 20121.141 nodes/s
+
+Time to run all tests: 31.063241341966204
